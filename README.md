@@ -8,6 +8,10 @@
   <li><strong>Email Notifications:</strong> Utilizes PHPMailer to notify the site owner and user who request the service when requests.</li>
 </ul>
 <img src="https://github.com/user-attachments/assets/4c69fdb0-1b20-4bed-915e-e2fb7b7f9f3b" alt="Screenshot_12-12-2024_42025_localhost" width="400" height="auto"> 
+
+<h2><a href=https://retech.wuaze.com/> Live Preview</a> </h2>
+
+
 <h2>To Run It on Localhost</h2>
 <ol>
   <li><strong>Create database</strong> named "retech".</li> 
