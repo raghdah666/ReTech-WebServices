@@ -1,5 +1,4 @@
-عدله بحيث يمكنني نسخه ولصقه في ملف جتهوب مع التنسيقات
-بالتأكيد! هنا هو النص المعدل بتنسيق Markdown جاهز للنسخ واللصق في ملف README.mdعلى GitHub:
+
 
 ReTech-WebServices
 Multilingual Dynamic web page showcasing the range of services offered with Email Notifications.
