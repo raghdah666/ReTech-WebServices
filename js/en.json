@@ -1,0 +1,54 @@
+{
+    "dictionary": {
+        "arabic": {
+            "_title": "ReTech | Web development",
+            "_home": "Home",
+            "_who": "Who We Are",
+            "_services": "Services",
+            "_portfolio": "Portfolio",
+            "_contact": "Contact Us",
+            "_im": "👋Hello I'm Raghda",
+            "_me": "I am a web developer with extensive experience in modern web development technologies, and strong skills in database management and system integration using Laravel and CodeIgniter. I have extensive experience in building and developing CRM systems, in addition to creating blogs and e-stores on WordPress. I also excel in developing interactive and attractive user interfaces. I am able to work flexibly in all aspects of web development, and I always strive to provide innovative solutions that meet the needs of clients and achieve their goals with the highest possible quality.",
+            "_developer": "Professional web designer and developer",
+            "_skills": "Skills",
+            "_ex": "Tools ​​and frameworks",
+            "_do": "What we do for you",
+            "_porto": "Our Recent Works",
+            "_design": "User Interface Design",
+            "_web": "Website design and development",
+            "_app": "Mobile Application",
+            "_lets": "Let’s Start A New Project",
+            "_address": "Address",
+            "_mail": "Mail",
+            "_mobile": "Mobile",
+            "_let": "Please leave your project details and contact information and we will contact you as soon as possible.",
+            "_name": "your name",
+            "_prname": "Name of Projec",           
+            "_message": "Summary explaining the project",
+            "_send": "Send",
+            "_Interactive": "Interactive",
+            "_responsive": "Responsive",
+            "_compatibility": "Compatibility with different platforms",
+            "_high": "High performance",
+            "_desdes": "Design attractive and easy-to-use interfaces that provide an excellent user experience.",
+            "_webdes": "Modern and responsive website development service using powerful programming languages ​​and frameworks.",
+            "_B_E": "Business Emails",
+            "_ch": "Convenient Hosting",
+            "_api": "API Integration",
+            "_hs": "High Security",
+            "_appdes": "Design and develop innovative and effective mobile applications to run on Android systems.",
+            "_iw": "Integration with web services",
+            "_cu": "Continuous updates",
+            "_eu": "Excellent user experience",
+            "_": "",
+            "alerts": {
+                "successTitle": "Success",
+                "successText": "Your project details have been submitted successfully!",
+                "errorTitle": "Error",
+                "errorText": "Failed to submit. Please try again later."
+            }
+
+
+        }
+    }
+}
