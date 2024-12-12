@@ -12,16 +12,16 @@ function sendEmail($projectName, $clientName, $message, $mobile, $email) {
         $mail->isSMTP();
         $mail->Host = "in-v3.mailjet.com"; // خادم SMTP ل Mailjet
         $mail->SMTPAuth = true;
-        $mail->Username = "c0895d97344cfe127740e1e870fa410b"; // استخدم API Key الخاص بك
-        $mail->Password = "789ee24c4abfd53732037363324e139d"; // استخدم API Secret الخاص بك
+        $mail->Username = ""; // استخدم API Key الخاص بك
+        $mail->Password = ""; // استخدم API Secret الخاص بك
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // استخدم SSL
         $mail->Port = 587; // المنفذ
 
         // إعداد المرسل
-        $mail->setFrom('raghdazaki39@gmail.com', 'ReTech');
+        $mail->setFrom('From-Email@examle.com', 'ReTech');
 
         // إضافة عنوان البريد الإلكتروني المدخل كمستلم
-        $mail->addAddress('raghdah.rz@gmail.com', 'Site Owner'); // البريد الإلكتروني لصاحب الموقع
+        $mail->addAddress('To-Email@example.com', 'Site Owner'); // البريد الإلكتروني لصاحب الموقع
 
         // إعداد محتوى البريد لصاحب الموقع
         $mail->isHTML(true);
