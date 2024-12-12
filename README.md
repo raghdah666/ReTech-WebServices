@@ -13,6 +13,17 @@ To run it on localhost :
 1- create a database named "retech"
 2- modify the server and email data in the file "sendEmail.php"
 (I relied on the "Mailjet" server
-https://www.mailjet.com/)
-To send email notifications
+https://www.mailjet.com/
+To send email notifications)
 
+        $mail->Host = "in-v3.mailjet.com"; //Change it to suit the server you want to use.
+        $mail->Username = ""; //Use your API Key or username
+        $mail->Password = ""; //Use your API Secret or pass
+
+        $mail->setFrom('From-Email@examle.com', 'ReTech'); // email to send
+
+        // إضافة عنوان البريد الإلكتروني المدخل كمستلم
+        $mail->addAddress('To-Email@example.com', 'Site Owner');// owner email to receive
+
+
+Then You Are ready!
