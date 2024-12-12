@@ -1,5 +1,5 @@
 <h1>ReTech-WebServices</h1>
-<p>Multilingual Dynamic web page showcasing the range of services offered & portfolio with Email Notifications.</p> 
+<p> MultiLanguage Dynamic web page showcasing the range of services offered & portfolio with Email Notifications.</p> 
 <h2>Features</h2>
 <ul>
   <li><strong>Services Page:</strong>
