@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/4c69fdb0-1b20-4bed-915e-e2fb7b7f9f3b" alt="Screenshot_12-12-2024_42025_localhost" width="400" height="auto"> 
 <h2>To Run It on Localhost</h2>
 <ol>
-  <li><strong>Create sql database</strong> named "retech".</li> 
+  <li><strong>Create database</strong> named "retech".</li> 
   <li><strong>Modify the server and email data</strong> 
   in the file <code>sendEmail.php</code>:(I relied on the <a href="https://www.mailjet.com/" target="_blank" rel="noopener noreferrer">Mailjet"</a>  server To send email notifications) 
     <pre> <code> 
